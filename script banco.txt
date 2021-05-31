@@ -8,6 +8,3 @@ CREATE TABLE public.tb_stock(
 );
 
 CREATE SEQUENCE hibernate_sequence START 1;
-
-
-https://youtu.be/345rJPGWLXE?t=8227
